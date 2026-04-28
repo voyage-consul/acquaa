@@ -26,7 +26,7 @@ const CONFIG = {
   CSV_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTwVpKVhJ3eunj2VX8Ibye67mm4-QQ0r7NvdboXGaXhKBsvIdlVQegmz6YfhODRygNmall2XX3i_4Pz/pub?gid=1922873880&single=true&output=csv',
   SHEET_URL: 'https://docs.google.com/spreadsheets/d/168I4mc32B_Sr41eexJPnFFZW4BkKobeKKH8NQsNzev0/edit?usp=sharing',
   PROXY_URL: 'https://line-dashboard-proxy.raspy-wood-9b0d.workers.dev',
-  GOOGLE_CLIENT_ID: 'xxxx.apps.googleusercontent.com',
+  GOOGLE_CLIENT_ID: '813216912152-hf6cden86ijta1qjc67uvscdlhmi85sl.apps.googleusercontent.com',
   SHEET_NAME: 'データ反映シート',
   // ※ AI Studio → CSV_URL使用 / GitHub Pages → 自動でプロキシ経由（手動切替不要）
 };
